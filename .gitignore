@@ -3,3 +3,4 @@ node_modules
 .env
 shopify_content_files
 yarn.lock
+.idea
